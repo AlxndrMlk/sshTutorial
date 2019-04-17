@@ -3,8 +3,6 @@
 In **3 steps** + some introduction 
 ____________________
 
-  In this tutorial I will show you a quick way to setup your environment to be SSH-ready.
-
 ## What is SSH?
 
   [Wikpedia](https://en.wikipedia.org/wiki/Secure_Shell) says:
@@ -39,7 +37,7 @@ _________________________________________
 
   You can think about SSH key as your identifier - it let's Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
-  To generate your first ever SSH key you need to follow two simple steps:
+  To generate your first ever SSH key you need to follow two simple sub-steps:
   
   * ### Open your new friend - Git Bash
     * In any folder (might be just your desktop) click your right mouse button
