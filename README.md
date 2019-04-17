@@ -33,7 +33,7 @@ _________________________________________
   
 _________________________________________
   
-## 2. Generate your ssh key 🔑
+## 2. Generate your SSH key 🔑
 
   You can think about SSH key as your identifier - it let's Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
