@@ -88,6 +88,8 @@ _________________________________________
     
     $ ls
     YOUR_REPOSITORY/
+    SOME_OTHER_FOLDER/
+    some_file.Rmd
     
     $ cd YOUR_REPOSITORY
 
