@@ -1,4 +1,4 @@
-# A Friendly Intro to Working with Your Bitbucket via SSH on Windows
+# 🤗 A Friendly Intro to Working with Your Bitbucket via SSH on Windows
 
   In this tutorial I will show you a quick way to setup your environment to be SSH-ready.
 
@@ -8,21 +8,23 @@
   
   *Secure Shell (SSH) is a cryptographic network protocol for operating network services securely over an unsecured network*
   
-  It's a fancy way of saying that you can safely send your data from one place to another. 
+  * It's a fancy way of saying that you can safely send your data from one place to another. 
   
-  In our case you'll send the data (your code) from your machine to your repository or vice versa :)
+  * In our case you'll send the data (your code) from your machine to your repository or vice versa :)
   
 ## Why to even bother?
 
-  SSH lets you synchronize your local code with your repository in a convenient and quick way. You won't need to drag and drop files, click confirmations and do other tedious stuff anymore. 
+  * SSH lets you synchronize your local code with your repository in a convenient and quick way. 
+  
+  * You won't need to drag and drop files, click confirmations and do other tedious stuff anymore. 
 
 ## Install Git Bash
 
   Git Bash is a **command line tool**. Basically, a window, where you can put your commands.
   
-  To instal `git` click (here)[https://git-scm.com/downloads]
+  * To instal `git` click [here](https://git-scm.com/downloads)
   
-  Tell the installator that you **want to add git to the context menu** - it will give you very convenient options later!
+  * Tell the installator that you **want to add git to the context menu** - it will give you very convenient options later!
   
 ## Generate your ssh key
 
@@ -34,9 +36,13 @@
     * In any folder (might be just your desktop) click your right mouse button
     * Select `Git Bash Here`
     
-  * ### Go to https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html
+  * ### Go to this [link](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)
+  
     * Find **Set up SSH for Git on Windows**
+    
     * Follow the steps there (you can ommit **Step 2** if you feel so - it will work)
+    
+    🎉 **Congrats!** You just generated your first SSH key! 
     
 ## Clone your repository
 
@@ -65,8 +71,31 @@
 
     ```
     
+    🎉 **Well done!** You rock!
+    
 ## Using git 
 
   There are three super-basic git commands:
+  
+  * `git status` - you check the status of your local repo
+  
+  * `git add .` - you prepare all your changes (here `.` means *all*) to being commited
+  
+  * `git commit -m "<some nice descriptive message here>"` - you commit your changes and describe what your changes are 
+  
+  * `git push` - you send your files to the repository (here is where all that **SSH** hustle pays off! 😊)
+  
+  * `git pull` - you download the latest version of the code from the repository
+  
+  To get more familiar with these commands you may want to watch this nice video: https://youtu.be/eL_0Ok_Gkas?t=175
+  
+  
+🎉 **Congrats!!!**
+
+You just learned how to work with bitbucket with SSH. How cool is that? 😃
+
+
+  
+If you want to learn more about version control in general you may like this: https://www.youtube.com/watch?v=0fKg7e37bQE&t=698s
   
   
