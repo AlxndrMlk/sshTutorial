@@ -15,7 +15,7 @@ ____________________
   
 _________________________________________
   
-## Why to even bother?
+## Why to even bother? 🤔
 
   * SSH lets you synchronize your local code with your repository in a convenient and quick way. 
   
@@ -23,7 +23,7 @@ _________________________________________
   
 _________________________________________
 
-## 1. Install Git Bash
+## 1. Install Git Bash 💾
 
   Git Bash is a **command line tool**. Basically, a window, where you can put your commands.
   
@@ -33,7 +33,7 @@ _________________________________________
   
 _________________________________________
   
-## 2. Generate your ssh key
+## 2. Generate your ssh key 🔑
 
   You can think about SSH key as your identifier - it let's Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
@@ -55,7 +55,7 @@ _________________________________________
     
 _________________________________________
     
-## 3. Clone your repository
+## 3. Clone your repository 🐑
 
   * Go to your Bitbucket (or GitHub or so...) repository and click `Clone`
   
