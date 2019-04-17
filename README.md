@@ -90,7 +90,7 @@ _________________________________________
     
 ## 4. Using git ⚽
 
-  There are three super-basic git commands:
+  There are **five** basic git commands:
   
   * `git status` - you check the status of your local repo
   
