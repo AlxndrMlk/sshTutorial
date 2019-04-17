@@ -12,11 +12,15 @@
   
   * In our case you'll send the data (your code) from your machine to your repository or vice versa :)
   
+_________________________________________
+  
 ## Why to even bother?
 
   * SSH lets you synchronize your local code with your repository in a convenient and quick way. 
   
   * You won't need to drag and drop files, click confirmations and do other tedious stuff anymore. 
+  
+_________________________________________
 
 ## Install Git Bash
 
@@ -25,6 +29,8 @@
   * To instal `git` click [here](https://git-scm.com/downloads)
   
   * Tell the installator that you **want to add git to the context menu** - it will give you very convenient options later!
+  
+_________________________________________
   
 ## Generate your ssh key
 
@@ -42,7 +48,11 @@
     
     * Follow the steps there (you can ommit **Step 2** if you feel so - it will work)
     
+_________________________________________
+    
     🎉 **Congrats!** You just generated your first SSH key! 
+    
+_________________________________________
     
 ## Clone your repository
 
@@ -71,7 +81,11 @@
 
     ```
     
+_________________________________________
+    
     🎉 **Well done!** You rock!
+    
+_________________________________________
     
 ## Using git 
 
@@ -89,6 +103,7 @@
   
   To get more familiar with these commands you may want to watch this nice video: https://youtu.be/eL_0Ok_Gkas?t=175
   
+_________________________________________
   
 🎉 **Congrats!!!**
 
