@@ -74,12 +74,12 @@ _________________________________________
     You should see something similar to the output below on your screen:
     
     ```bash
-    $ Cloning into 'PyTorchExercises'...
+    Cloning into 'PyTorchExercises'...
+    remote: Enumerating objects: 4, done.
+    remote: Counting objects: 100% (4/4), done.
     remote: Compressing objects: 100% (3/3), done.
-    bash: Cloning: command not found
     remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
     Receiving objects: 100% (4/4), done.
-
     ```
     
 _________________________________________
