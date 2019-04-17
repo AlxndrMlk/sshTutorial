@@ -1,6 +1,6 @@
 # 🤗 A Friendly Intro to Working with Your Bitbucket via SSH on Windows
 
-In **3 steps** + some introduction 
+In **3 steps** + some introduction + how to use git
 ____________________
 
 ## What is SSH?
@@ -55,7 +55,7 @@ _________________________________________
     
 _________________________________________
     
-## 3. Clone your repository 🐑
+## 3. Clone your repository 🐑🐑
 
   * Go to your Bitbucket (or GitHub or so...) repository and click `Clone`
   
@@ -88,7 +88,7 @@ _________________________________________
     
 _________________________________________
     
-## Using git 
+## 4. Using git ⚽
 
   There are three super-basic git commands:
   
