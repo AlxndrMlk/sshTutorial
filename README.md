@@ -74,13 +74,26 @@ _________________________________________
     You should see something similar to the output below on your screen:
     
     ```bash
-    Cloning into 'PyTorchExercises'...
+    Cloning into 'YOUR_REPOSITORY'...
     remote: Enumerating objects: 4, done.
     remote: Counting objects: 100% (4/4), done.
     remote: Compressing objects: 100% (3/3), done.
     remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
     Receiving objects: 100% (4/4), done.
     ```
+    
+    To get to your repository:
+    
+    ```bash
+    
+    $ ls
+    YOUR_REPOSITORY/
+    
+    $ cd YOUR_REPOSITORY
+
+    ```
+    
+    And now you can start using git! 😊
     
 _________________________________________
     
