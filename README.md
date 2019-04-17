@@ -1,5 +1,8 @@
 # 🤗 A Friendly Intro to Working with Your Bitbucket via SSH on Windows
 
+In **3 steps** + some introduction 
+____________________
+
   In this tutorial I will show you a quick way to setup your environment to be SSH-ready.
 
 ## What is SSH?
@@ -22,7 +25,7 @@ _________________________________________
   
 _________________________________________
 
-## Install Git Bash
+## 1. Install Git Bash
 
   Git Bash is a **command line tool**. Basically, a window, where you can put your commands.
   
@@ -32,7 +35,7 @@ _________________________________________
   
 _________________________________________
   
-## Generate your ssh key
+## 2. Generate your ssh key
 
   You can think about SSH key as your identifier - it let's Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
@@ -54,7 +57,7 @@ _________________________________________
     
 _________________________________________
     
-## Clone your repository
+## 3. Clone your repository
 
   * Go to your Bitbucket (or GitHub or so...) repository and click `Clone`
   
