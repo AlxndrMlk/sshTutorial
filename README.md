@@ -67,7 +67,7 @@ _________________________________________
     
     **HARD PART ALERT :)**: in Git Bash use you don't use `Ctrl + C` and `Ctrl + V` instead use:
     
-      * `Insert` to paste (and copy) (I know, I know, but it works 🤔)
+      * `Insert` to paste (and copy) (I know, I know, it's crazy, but this is how it works 🤔)
     
     **NOTE**: check if what you just copied starts with words `git clone`. If yes just press `Enter`. If no add `git clone` in front of what you just copied and press `Enter`.
     
