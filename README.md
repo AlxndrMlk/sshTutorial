@@ -35,7 +35,7 @@ _________________________________________
   
 ## 2. Generate your SSH key 🔑
 
-  You can think about SSH key as your identifier - it let's Bitbucket (or GitHub or any other software that uses SSH) identify you.
+  You can think about SSH key as your identifier - it lets Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
   To generate your first ever SSH key you need to follow two simple sub-steps:
   
