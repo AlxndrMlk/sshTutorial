@@ -37,7 +37,7 @@ _________________________________________
 
   You can think about SSH key as your identifier - it lets Bitbucket (or GitHub or any other software that uses SSH) identify you.
   
-  To generate your first ever SSH key you need to follow two simple sub-steps:
+  To generate your first ever SSH key you need to follow these two simple sub-steps:
   
   * ### Open your new friend - Git Bash
     * In any folder (might be just your desktop) click your right mouse button
