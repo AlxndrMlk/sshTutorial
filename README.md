@@ -40,14 +40,14 @@ _________________________________________
   To generate your first ever SSH key you need to follow these two simple sub-steps:
   
   * ### Open your new friend - Git Bash
-    * In any folder (might be just your desktop) click your right mouse button
+    * In any folder (might even be your desktop) click your right mouse button
     * Select `Git Bash Here`
     
   * ### Go to this [link](https://confluence.atlassian.com/bitbucket/set-up-an-ssh-key-728138079.html)
   
     * Find **Set up SSH for Git on Windows**
     
-    * Follow the steps there (you can ommit **Step 2** if you feel so - it will work)
+    * Follow the steps there (you can ommit **Step 2** if you feel so)
     
 _________________________________________
     
